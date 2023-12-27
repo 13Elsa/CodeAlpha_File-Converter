@@ -1,4 +1,5 @@
 # CodeAlpha_File-Converter
+This project contains code for only the front-end part of a file converter. But the following gives you an explaination of how exactly they work...:
 A PDF to Word file converter using HTML is a tool that can be used to convert PDF files into Word documents. This can be done by using the HTML code to extract the text from the PDF file and then saving it as a Word document. There are a number of different PDF to Word file converters available online, and most of them are free to use.
 
 Here are some of the benefits of using a PDF to Word file converter using HTML:
